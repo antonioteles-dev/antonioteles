@@ -63,7 +63,7 @@ Mobile Software Engineer with experience in fintech and enterprise mobile applic
 - Multi-screen enterprise-style Android app
 - Modular UI for internal feature tracking
 - Focus on scalability and clean architecture
-
+👉 https://github.com/antonioteles-dev/hr-android-app
 ---
 
 ## 🎓 Education
