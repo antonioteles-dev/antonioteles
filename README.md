@@ -89,15 +89,7 @@ Bachelor’s in Software Engineering
 
 ---
 
-## 🚀 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antonioteles-dev&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioteles-dev&layout=compact&theme=tokyonight" />
-</p>
 
----
 
